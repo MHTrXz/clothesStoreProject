@@ -1,0 +1,4 @@
+1,shirt
+2,T-shirt
+3,jeans
+4,suit
